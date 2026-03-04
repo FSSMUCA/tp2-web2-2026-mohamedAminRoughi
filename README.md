@@ -45,7 +45,7 @@ NaN -> number
 Déclarez un tableau nommé `valeurs` contenant exactement ces 10 éléments dans l'ordre :
 `0`, `1`, `""`, `"0"`, `null`, `undefined`, `NaN`, `false`, `[]`, `{}`
 
-Parcourez ce tableau avec une boucle `for` classique. Pour chaque élément, affichez sur une seule ligne :
+Parcourez ce tableau avec une boucle `for` classique. Pour chaque élément, affichez sur une seuleligne :
 - la valeur (convertie en string via `String()`)
 - si elle est **truthy** ou **falsy**
 
