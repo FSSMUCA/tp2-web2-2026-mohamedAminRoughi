@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/p6CTHHRY)
 # TP — JavaScript : Types, Opérateurs et Conversions
 
 **Consignes générales**
@@ -44,7 +45,7 @@ NaN -> number
 Déclarez un tableau nommé `valeurs` contenant exactement ces 10 éléments dans l'ordre :
 `0`, `1`, `""`, `"0"`, `null`, `undefined`, `NaN`, `false`, `[]`, `{}`
 
-Parcourez ce tableau avec une boucle `for` classique. Pour chaque élément, affichez sur une seule ligne :
+Parcourez ce tableau avec une boucle `for` classique. Pour chaque élément, affichez sur une seuleligne :
 - la valeur (convertie en string via `String()`)
 - si elle est **truthy** ou **falsy**
 

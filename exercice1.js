@@ -1,0 +1,15 @@
+a=42;
+b="Bonjour";
+c=true;
+d=null;
+let e;
+f= [1, 2, 3];
+g={ nom: "Ali" };
+h=NaN;
+console.log(typeof(a));
+console.log(typeof(b));
+console.log(typeof(c));
+console.log(typeof(d));
+console.log(typeof(e));
+console.log(typeof(f));
+console.log(typeof(g));
